@@ -22,3 +22,8 @@ Helper functions to work with **WMI**.
 
 **System.Drawing** Basic maths.
 
+## Python
+
+### BuscaEnLinkedIn.py
+
+(**es-ES**) Just fun with **selenium** & LinkedIn Company **employee list**.  
