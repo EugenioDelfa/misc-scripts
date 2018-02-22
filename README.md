@@ -20,5 +20,5 @@ Helper functions to work with **WMI**.
 
 ### Mandelbrot.ps1 & Trigonometry.ps1
 
-System.Drawing Basic maths.
+**System.Drawing** Basic maths.
 
