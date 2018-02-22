@@ -18,3 +18,7 @@ Implementation of - https://web.archive.org/web/20101218214830/http://perl-users
 
 Helper functions to work with **WMI**.
 
+### Mandelbrot.ps1 & Trigonometry.ps1
+
+System.Drawing Basic maths.
+
