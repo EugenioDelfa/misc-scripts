@@ -22,6 +22,10 @@ Helper functions to work with **WMI**.
 
 **System.Drawing** Basic maths.
 
+### PoshSQLBridge.ps1
+
+Bridge between **SQLMap** and ADB **Content Provider** query system.
+
 ## Python
 
 ### BuscaEnLinkedIn.py
